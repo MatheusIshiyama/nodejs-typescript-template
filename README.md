@@ -1,7 +1,17 @@
-# 🚀 Node.js TypeScript Template
+<h1 align="center">🚀 Node.js TypeScript Template</h1>
 
-A modern boilerplate for building scalable Node.js applications using TypeScript.  
-Includes best practices like module structure, environment configuration, linting, and script automation.
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-%3E=18.x-brightgreen?logo=node.js&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/typescript-4.x-blue?logo=typescript&style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" alt="PRs welcome" />
+  <img src="https://img.shields.io/github/last-commit/MatheusIshiyama/nodejs-typescript-template?style=for-the-badge" alt="Last Commit" />
+</p>
+
+<p align="center">
+  A modern boilerplate for building scalable Node.js applications using TypeScript.<br/>
+  Includes best practices like module structure, environment configuration, linting, and script automation.
+</p>
 
 ---
 
